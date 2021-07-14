@@ -30763,7 +30763,7 @@ MyCounter.propTypes = {
   name: _propTypes.default.string
 };
 customElements.define('my-counter', (0, _reactToWebcomponent.default)(MyCounter, _react.default, _reactDom.default));
-},{"react":"node_modules/react/index.js","react-dom":"node_modules/react-dom/index.js","react-to-webcomponent":"node_modules/react-to-webcomponent/react-to-webcomponent.js","prop-types":"node_modules/prop-types/index.js"}],"../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+},{"react":"node_modules/react/index.js","react-dom":"node_modules/react-dom/index.js","react-to-webcomponent":"node_modules/react-to-webcomponent/react-to-webcomponent.js","prop-types":"node_modules/prop-types/index.js"}],"../../../../../Users/T026/AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
@@ -30791,7 +30791,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "62987" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "52002" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
@@ -30967,5 +30967,5 @@ function hmrAcceptRun(bundle, id) {
     return true;
   }
 }
-},{}]},{},["../../AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/hmr-runtime.js","mycomponent.js"], null)
+},{}]},{},["../../../../../Users/T026/AppData/Roaming/npm/node_modules/parcel-bundler/src/builtins/hmr-runtime.js","mycomponent.js"], null)
 //# sourceMappingURL=/mycomponent.5d3869ec.js.map

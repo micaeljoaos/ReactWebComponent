@@ -32,7 +32,6 @@ class MyCounter extends React.Component{
             <span>{this.state.count}</span>
         </div>
     }
-    //My first Change
 }
 
 MyCounter.propTypes = {
